@@ -1,27 +1,6 @@
 
-
-
-// var fields = document.querySelectorAll('#gameboard button');
-// alert("fields.length =" + fields.length);
-var player
-// declare variable player/
-player = "x";
-
-// set player to "x"
+// declare variable player and set player to "x"
 var player = "x";
-
-// or combined: declare variable player and set player to "x"
-
-
-// life sign
-//alert(player);
-
-// alert value of variable player
-
-
-// alert "Hello" plus value of player
-
-////alert("Hello" + " " + player);
 
 // declare variable hint and set it to element object with
 // id "hint", using document.querySelector()
